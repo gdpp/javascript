@@ -4,10 +4,17 @@
 
 ## Content.
 
-1. Foundations
-    - Variables
-    - Data Types
-    - Operators
-    - Functions
-    - Control Structures
-    - Loops
+1. Foundations.
+    - Variables.
+    - Data Types.
+    - Operators.
+    - Functions.
+    - Control Structures.
+    - Loops.
+2. Functions
+    - Different Ways of create functions.
+    - Anonymous Functions.
+    - Callback Functions & Functions in Functions.
+    - Default Arguments.
+    - Rest operator.
+    - bind() & more.
