@@ -18,3 +18,7 @@
     - Default Arguments.
     - Rest operator.
     - bind() & more.
+3. Document Object Model (DOM)
+    - What is the DOM
+    - Document and Windom Objects
+    - Nodes & Elements
