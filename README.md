@@ -22,3 +22,6 @@
     - What is the DOM
     - Document and Windom Objects
     - Nodes & Elements
+    - Styling Elements
+    - Add, Modify & Remove Elements
+4. Arrays & Iterables
