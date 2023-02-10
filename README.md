@@ -48,3 +48,4 @@
     - Destructuring
     - Sets
     - Maps
+5. Objects
