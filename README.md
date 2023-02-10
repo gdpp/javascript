@@ -20,8 +20,31 @@
     - bind() & more.
 3. Document Object Model (DOM)
     - What is the DOM
-    - Document and Windom Objects
+    - Document and Window Objects
     - Nodes & Elements
     - Styling Elements
     - Add, Modify & Remove Elements
 4. Arrays & Iterables
+    - Push() Function
+    - Unshift() Function
+    - Pop() Function
+    - Shift() Function
+    - Splice() Function
+    - Slice() Function
+    - Concat() Function
+    - IndexOf() Function
+    - Find() Function
+    - FindIndex() Function
+    - Includes() Function
+    - For each
+    - Map() Function
+    - Sort() Function
+    - Reverse() Function
+    - Filter() Function
+    - Reduce() Function
+    - Split() Function
+    - Join() Function
+    - Spread operator (...)
+    - Destructuring
+    - Sets
+    - Maps
