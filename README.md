@@ -49,3 +49,12 @@
     - Sets
     - Maps
 5. Objects
+    - Add, Modify & Delete properties
+    - Special Key names
+    - Square Brackets Property Access
+    - Dynamic Property Access
+    - Object.assign()
+    - Check Property existence
+    - this
+    - Strange Behavior with this keyword
+6. OOP (Object Oriented Programming)
