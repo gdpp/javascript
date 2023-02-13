@@ -58,3 +58,12 @@
     - this
     - Strange Behavior with this keyword
 6. OOP (Object Oriented Programming)
+    - Classes
+    - Properties
+    - Constructors
+    - Methods
+    - Inheritance
+    - Public and Private accessors
+    - Constructor Functions
+    - Prototypes
+    -
