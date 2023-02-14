@@ -11,59 +11,59 @@
     - Functions.
     - Control Structures.
     - Loops.
-2. Functions
+2. Functions.
     - Different Ways of create functions.
     - Anonymous Functions.
     - Callback Functions & Functions in Functions.
     - Default Arguments.
     - Rest operator.
     - bind() & more.
-3. Document Object Model (DOM)
-    - What is the DOM
-    - Document and Window Objects
-    - Nodes & Elements
-    - Styling Elements
-    - Add, Modify & Remove Elements
-4. Arrays & Iterables
-    - Push() Function
-    - Unshift() Function
-    - Pop() Function
-    - Shift() Function
-    - Splice() Function
-    - Slice() Function
-    - Concat() Function
-    - IndexOf() Function
-    - Find() Function
-    - FindIndex() Function
-    - Includes() Function
-    - For each
-    - Map() Function
-    - Sort() Function
-    - Reverse() Function
-    - Filter() Function
-    - Reduce() Function
-    - Split() Function
-    - Join() Function
-    - Spread operator (...)
-    - Destructuring
-    - Sets
-    - Maps
-5. Objects
-    - Add, Modify & Delete properties
-    - Special Key names
-    - Square Brackets Property Access
-    - Dynamic Property Access
-    - Object.assign()
-    - Check Property existence
-    - this
-    - Strange Behavior with this keyword
-6. OOP (Object Oriented Programming)
-    - Classes
-    - Properties
-    - Constructors
-    - Methods
-    - Inheritance
-    - Public and Private accessors
-    - Constructor Functions
-    - Prototypes
-    -
+3. Document Object Model (DOM).
+    - What is the DOM.
+    - Document and Window Objects.
+    - Nodes & Elements.
+    - Styling Elements.
+    - Add, Modify & Remove Elements.
+4. Arrays & Iterables.
+    - Push() Function.
+    - Unshift() Function.
+    - Pop() Function.
+    - Shift() Function.
+    - Splice() Function.
+    - Slice() Function.
+    - Concat() Function.
+    - IndexOf() Function.
+    - Find() Function.
+    - FindIndex() Function.
+    - Includes() Function.
+    - For each.
+    - Map() Function.
+    - Sort() Function.
+    - Reverse() Function.
+    - Filter() Function.
+    - Reduce() Function.
+    - Split() Function.
+    - Join() Function.
+    - Spread operator (...).
+    - Destructuring.
+    - Sets.
+    - Maps.
+5. Objects.
+    - Add, Modify & Delete properties.
+    - Special Key names.
+    - Square Brackets Property Access.
+    - Dynamic Property Access.
+    - Object.assign().
+    - Check Property existence.
+    - this.
+    - Strange Behavior with this keyword.
+6. OOP (Object Oriented Programming).
+    - Classes.
+    - Properties.
+    - Constructors.
+    - Methods.
+    - Inheritance.
+    - Public and Private accessors.
+    - Constructor Functions.
+    - Prototypes.
+7. Advanced DOM.
