@@ -67,3 +67,17 @@
     - Constructor Functions.
     - Prototypes.
 7. Advanced DOM.
+    - Attaching Data to Elements
+    - Dataset (data- Attribute)
+    - Working with element Coordinates & sizes.
+    - Working with templates & Dynamic Scripts.
+    - navigator, location & window.history.
+8. Events.
+    - Introduction.
+    - Different Ways To Listening Events.
+    - Remove Event Listeners
+    - Event Object
+    - preventDefault()
+    - Capturing & Bubbling Phases.
+    - Event propagation & stopPropagation()
+    - Event Delegation

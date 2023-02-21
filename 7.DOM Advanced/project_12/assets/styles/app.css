@@ -1,0 +1,136 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #252422;
+    font-family: sans-serif;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin: 1rem 0;
+}
+
+section {
+    margin: 1rem auto;
+    max-width: 90%;
+    width: 40rem;
+}
+
+section ul {
+    max-height: 20rem;
+    padding: 1rem;
+    overflow: scroll;
+}
+
+section > h2 {
+    color: #252422;
+    margin: 0;
+}
+
+button {
+    background-color: #00af54;
+    border: 1px solid #00af54;
+    border-radius: 5px;
+    color: #fffcf2;
+    cursor: pointer;
+    font: inherit;
+    margin-top: 5px;
+    padding: 0.5rem 1.5rem;
+    transition: all 0.2s ease-in-out;
+}
+
+button:focus {
+    outline: none;
+}
+
+button:hover,
+button:active {
+    background-color: #006832;
+    border-color: #006832;
+}
+
+#main-header {
+    align-items: center;
+    background-color: #072ac8;
+    display: flex;
+    height: 6rem;
+    justify-content: center;
+    width: 100%;
+}
+
+#main-header h1 {
+    color: #fffcf2;
+}
+
+button.alt {
+    background-color: #888fa1;
+    border: 1px solid #888fa1;
+    color: #252422;
+}
+
+button.alt:hover {
+    background-color: #5b6377;
+    border-color: #5b6377;
+}
+
+#active-projects {
+    background-color: #fffcf2;
+    border-radius: 15px;
+}
+
+#active-projects > header {
+    align-items: center;
+    background-color: #0075f2;
+    border-radius: 15px 15px 0 0;
+    color: #fffcf2;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+#active-projects header h2 {
+    color: #fffcf2;
+}
+
+#finished-projects {
+    background-color: #fffcf2;
+    border-radius: 15px;
+}
+
+#finished-projects > header {
+    align-items: center;
+    background-color: #00af54;
+    border-radius: 15px 15px 0 0;
+    color: #fffcf2;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+#finished-projects header h2 {
+    color: #fffcf2;
+}
+
+.card {
+    background-color: #dcdcdc;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
+    padding: 1rem;
+}
+
+footer {
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
