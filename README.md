@@ -75,9 +75,25 @@
 8. Events.
     - Introduction.
     - Different Ways To Listening Events.
-    - Remove Event Listeners
-    - Event Object
-    - preventDefault()
+    - Remove Event Listeners.
+    - Event Object.
+    - preventDefault().
     - Capturing & Bubbling Phases.
-    - Event propagation & stopPropagation()
-    - Event Delegation
+    - Event propagation & stopPropagation().
+    - Event Delegation.
+9. Advanced Functions.
+    - Pure functions & side effect.
+    - Factory Functions.
+    - Closures.
+    - Recursion.
+10. More Numbers & Strings.
+    - More about numbers.
+    - Floating Point.
+    - Global number & Math objects.
+    - String & Template literals.
+    - Tagged Templates.
+11. Async Javascript: Promises & Callbacks.
+    - What is Async Code
+    - Callbacks
+    - Promises
+    - Async / Await
