@@ -97,3 +97,9 @@
     - Callbacks
     - Promises
     - Async / Await
+12. Http Request.
+    - XMLHttpRequest
+    - fetch API
+    - Json Data & Form Data
+    - Http Methods
+13. Javascript Modules.
