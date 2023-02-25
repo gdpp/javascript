@@ -9,7 +9,38 @@
 </head>
 
 <body>
+    <button onclick=showCountries()>Show Countries</button>
+    <div id="container">
 
+    </div>
+    <script>
+        function showCountries() {
+            const container = document.getElementById('container');
+
+            let xhr = new XMLHttpRequest();
+
+            xhr.open('GET', 'https://restcountries.com/v3.1/all', true);
+
+            xhr.onload = function () {
+                if (xhr.status === 200) {
+                    let countries = JSON.parse(this.response);
+
+                    countries.forEach(country => {
+                        const countryCard = document.createElement('div');
+                        const countryImg = document.createElement('img');
+
+                        countryCard.innerHTML = country.name.official;
+                        countryImg.src = country.flags.png;
+
+                        countryCard.appendChild(countryImg);
+                        container.appendChild(countryCard);
+                    });
+                }
+            };
+
+            xhr.send();
+        }
+    </script>
 </body>
 
 </html>
